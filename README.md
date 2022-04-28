@@ -1,4 +1,4 @@
-# Programming Laungages and File Format Detection
+# Programming Language and File Format Detection
 
 ### Contents:
 - ``format-detection.ipynb``: exploring training and testing the model
